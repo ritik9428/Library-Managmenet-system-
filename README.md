@@ -1,7 +1,8 @@
 # Library-Managmenet-system-
 This is JAVA language based Library management system desktop application which uses MySQL in the back-end for storing records.
 
-Following are some MySQL commands for creating tables in your database
+#Following are some MySQL commands for creating tables in your database
+
 create database library_system;
 
 create table books (bookid int(11) primary key,
