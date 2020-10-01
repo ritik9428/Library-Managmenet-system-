@@ -43,8 +43,8 @@ public class search {
 				try {
 					search window = new search();
 					window.frmSearchForBooks.setVisible(true);
-				} catch (Exception e) {
-					e.printStackTrace();
+				} catch (Exception e2) {
+					e2.printStackTrace();
 				}
 			}
 		});
